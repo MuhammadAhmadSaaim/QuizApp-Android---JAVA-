@@ -43,7 +43,7 @@ This Quiz App is developed in Java and XML for Android. It is a multiple-choice 
 
 ## APK Download
 
-[Download APK](#) *(Link to be updated once uploaded)*
+[Download APK](https://drive.google.com/file/d/1iXndNdBX6GHO4vhDbfIrwTWX5lZMCQa9/view?usp=sharing) 
 
 ## Known Issues
 
